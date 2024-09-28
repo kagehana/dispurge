@@ -4,7 +4,7 @@ a private message(s) purger for [**discord**](https://discord.com).
 
 
 # setup
-### skip 1 & 2 if using luvit.bat
+### skip 1 & 2 if using [luvit.bat](https://github.com/love2fuck/dispurge/blob/main/luvit.bat)
 1. go to https://luvit.io/install.html
 2. run the command respective to your OS
 3. go into the folder you put this code in
